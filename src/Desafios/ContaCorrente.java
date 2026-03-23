@@ -5,6 +5,6 @@ public class ContaCorrente extends ContaBanc {
 
     public void cobrarTarifaMensal() {
         saldo -= tarifaMensal;
-        System.out.println("Tarifa mensal de " + tarifaMensal + " cobrada. Saldo atual: " + saldo);
+        System.out.println("Tarifa mensal de R$" + tarifaMensal + " cobrada. Saldo atual: " + saldo);
     }
 }
