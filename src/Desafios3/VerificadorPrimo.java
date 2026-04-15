@@ -1,4 +1,4 @@
-package Desafios;
+package Desafios3;
 
 public class VerificadorPrimo extends NumerosPrimos {
     public void verificarSeEhPrimo(int numero) {

@@ -1,4 +1,4 @@
-package Desafios;
+package Desafios3;
 
 public class Animal {
     private String nome;

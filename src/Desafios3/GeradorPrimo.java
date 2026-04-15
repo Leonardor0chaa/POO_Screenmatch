@@ -1,4 +1,4 @@
-package Desafios;
+package Desafios3;
 
 public class GeradorPrimo extends NumerosPrimos {
     public int gerarProximoPrimo(int ultimoPrimoConhecido) {

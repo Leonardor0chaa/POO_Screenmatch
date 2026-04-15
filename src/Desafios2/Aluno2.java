@@ -1,12 +1,12 @@
-package Desafios;
+package Desafios2;
 
-public class Aluno {
+public class Aluno2 {
     private String nome;
     private double nota1;
     private double nota2;
     private double nota3;
 
-    public Aluno(String nome, double nota1, double nota2, double nota3) {
+    public Aluno2(String nome, double nota1, double nota2, double nota3) {
         this.nome = nome;
         this.nota1 = nota1;
         this.nota2 = nota2;
